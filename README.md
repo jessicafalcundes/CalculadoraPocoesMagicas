@@ -1,7 +1,6 @@
 ### grimório de poções antigas
 
-este projeto é uma aplicação gráfica feita em java com swing, que simula um sistema mágico para criação de poções encantadas.  
-a interface permite escolher o tipo de poção, selecionar ingredientes mágicos, ajustar a potência e visualizar a receita final.
+aplicação desktop desenvolvida em java (swing), simulando um grimório arcano para cálculo e preparação de poções mágicas. o usuário seleciona o tipo de poção, ingredientes raros e define a potência do feitiço. ao final, a receita é invocada com base nas escolhas — ideal para magos(as) em treinamento ou entusiastas de interfaces gráficas encantadas.
 
 este projeto foi desenvolvido como parte da **avaliação de linguagem de programação do 3º semestre** do curso de **análise e desenvolvimento de sistemas**.
 
